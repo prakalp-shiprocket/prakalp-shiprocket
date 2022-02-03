@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakalp_varshney.
 - 👀 I’m skilled in multiple Web and Desktop technologies.
-- 🌱 I’m currently planning to release some rockets in GO.
+- 🌱 In the making of Post Order Experience.
 - 📫 How to reach me - prakalp.varshney@shiprocket.com || +91-9058478126
 - 🎮 Also a Pro Gamer
 
